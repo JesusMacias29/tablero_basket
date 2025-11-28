@@ -1,0 +1,6 @@
+<resources>
+    <!-- Colores Primarios -->
+    <color name="colorPrimary">#3F51B5</color>      <!-- Azul -->
+    <color name="colorPrimaryDark">#303F9F</color>  <!-- Azul oscuro -->
+    <color name="colorAccent">#FF4081</color>       <!-- Rosa -->
+</resources>
