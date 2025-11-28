@@ -106,6 +106,10 @@ Capturas de pantalla de ambas actividades mostrando la interfaz y las funcionali
 
 ---
 
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/790c62ca-3e5e-451b-91e0-1fde95c3a5a4" />
+
+---
+
 <img width="239" height="532" alt="image" src="https://github.com/user-attachments/assets/52b76c11-2420-42b0-a1c6-89e0bfb469e6" />
 
 ---
