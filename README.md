@@ -110,7 +110,7 @@ Instrucciones de Entrega 📥
 
 Código fuente completo en un repositorio de GitHub. 📂
 
-Archivo README.md con la descripción del proyecto (como este documento). 📝
+Archivo README.md con la descripción del proyecto. 📝
 
 ---
 
