@@ -13,7 +13,7 @@ Este proyecto es una aplicación Android diseñada para gestionar el marcador de
 ---
 
 📜 Descripción General
-
+---
 La aplicación tiene dos pantallas principales:
 
 MainActivity:
@@ -25,7 +25,7 @@ Muestra los resultados finales del partido, indicando quién ganó o si hubo un 
 ---
 
 🔧 Requisitos Funcionales
-
+---
 Interfaz de usuario clara y legible utilizando LinearLayout y ConstraintLayout. 📱
 
 Lógica de marcador:
@@ -46,6 +46,7 @@ Uso de Data Binding para acceder a las vistas sin necesidad de findViewById. ⚡
 
 
 🗂 Estructura del Proyecto
+---
 MainActivity:
 
 Pantalla principal con los botones para sumar puntos a los equipos, restar puntos y resetear los marcadores.
@@ -69,7 +70,7 @@ ScoreActivity.java: Lógica para mostrar los resultados finales.
 ---
 
 🛠 Buenas Prácticas Aplicadas
-
+---
 Nombres claros de variables y métodos para mejorar la legibilidad del código. ✍️
 
 Comentarios explicativos en el código para aclarar las funciones críticas. 💬
@@ -81,7 +82,7 @@ Uso de constantes: Se definieron constantes para evitar el uso de cadenas litera
 ---
 
 📚 Tecnologías Utilizadas
-
+---
 Android Studio: IDE utilizado para el desarrollo. 💻
 
 Data Binding: Simplificación del código y mejora del acceso a las vistas. 📈
@@ -93,7 +94,7 @@ Java: Lenguaje utilizado para desarrollar la lógica de la aplicación. 🖥
 ---
 
 🚀 Mejoras Futuras
-
+---
 Internacionalización: Uso de strings.xml para gestionar textos en múltiples idiomas. 🌍
 
 Validación de entrada de datos: Mejorar la validación de los botones para evitar errores. 🛑
@@ -129,7 +130,7 @@ LOGO DE MI APP
 ---
 
 🎯 Conclusión
-
+---
 Este proyecto muestra cómo implementar las funcionalidades esenciales de una aplicación de marcador de baloncesto utilizando buenas prácticas en Android. Desde el uso de Data Binding para simplificar el código, hasta la navegación eficiente entre actividades y la correcta gestión del estado de la aplicación. 🏀💡
 
 Instrucciones de Entrega 📥
