@@ -115,9 +115,21 @@ Archivo README.md con la descripción del proyecto (como este documento). 📝
 ---
 
 Capturas de pantalla de ambas actividades mostrando la interfaz y las funcionalidades. 📸
+
+---
+
 <img width="239" height="532" alt="image" src="https://github.com/user-attachments/assets/52b76c11-2420-42b0-a1c6-89e0bfb469e6" />
+
+---
+
 <img width="229" height="493" alt="image" src="https://github.com/user-attachments/assets/19de5a23-6726-49b0-85ff-858023ba8155" />
+
+---
+
 <img width="229" height="65" alt="image" src="https://github.com/user-attachments/assets/7cd6ec67-066c-46ed-bdd4-dad87dfec9eb" />
+
+---
+
 <img width="219" height="59" alt="image" src="https://github.com/user-attachments/assets/313b5b36-af53-45bd-a5c7-2fa1ac7d8f03" />
 
 
