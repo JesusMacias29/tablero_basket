@@ -102,18 +102,6 @@ Optimización de la UI: Mejorar el diseño visual y la fluidez de la interfaz. �
 
 ---
 
-🎯 Conclusión
-
-Este proyecto muestra cómo implementar las funcionalidades esenciales de una aplicación de marcador de baloncesto utilizando buenas prácticas en Android. Desde el uso de Data Binding para simplificar el código, hasta la navegación eficiente entre actividades y la correcta gestión del estado de la aplicación. 🏀💡
-
-Instrucciones de Entrega 📥
-
-Código fuente completo en un repositorio de GitHub. 📂
-
-Archivo README.md con la descripción del proyecto. 📝
-
----
-
 Capturas de pantalla de ambas actividades mostrando la interfaz y las funcionalidades. 📸
 
 ---
@@ -131,6 +119,20 @@ Capturas de pantalla de ambas actividades mostrando la interfaz y las funcionali
 ---
 
 <img width="219" height="59" alt="image" src="https://github.com/user-attachments/assets/313b5b36-af53-45bd-a5c7-2fa1ac7d8f03" />
+
+---
+
+🎯 Conclusión
+
+Este proyecto muestra cómo implementar las funcionalidades esenciales de una aplicación de marcador de baloncesto utilizando buenas prácticas en Android. Desde el uso de Data Binding para simplificar el código, hasta la navegación eficiente entre actividades y la correcta gestión del estado de la aplicación. 🏀💡
+
+Instrucciones de Entrega 📥
+
+Código fuente completo en un repositorio de GitHub. 📂
+
+Archivo README.md con la descripción del proyecto. 📝
+
+---
 
 
 
