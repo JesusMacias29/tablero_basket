@@ -5,7 +5,7 @@
 👤 Realizado por
 
 JESÚS MACÍAS
-
+---
 ---
 
 Este proyecto es una aplicación Android diseñada para gestionar el marcador de un partido de baloncesto. La app permite gestionar puntuaciones en tiempo real, navegar entre pantallas y usar Data Binding para optimizar el acceso a las vistas. Además, tiene una interfaz amigable y una experiencia de usuario fluida. 😎
